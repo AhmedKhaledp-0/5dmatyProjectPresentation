@@ -42,18 +42,18 @@ All components are optimized for both desktop and mobile views:
 #### Login Interface
 | Desktop | Mobile |
 |---------|---------|
-| ![Login Desktop Dark](loginEnDark/desktop.png) | ![Login Mobile Dark](loginEnDark/mobile.png) |
+| ![Login Desktop Dark](Assets/loginEnDark/desktop.png) | ![Login Mobile Dark](Assets/loginEnDark/mobile.png) |
 | Dark Theme Desktop View | Dark Theme Mobile View |
 
 | Desktop | Mobile |
 |---------|---------|
-| ![Login Desktop Light](no_login_light/desktop.png) | ![Login Mobile Light](no_login_light/mobile.png) |
+| ![Login Desktop Light](Assets/no_login_light/desktop.png) | ![Login Mobile Light](Assets/no_login_light/mobile.png) |
 | Light Theme Desktop View | Light Theme Mobile View |
 
 #### Sign Up Interface
 | Desktop | Mobile |
 |---------|---------|
-| ![Signup Desktop](signUpARDark/desktop.png) | ![Signup Mobile](signUpARDark/mobile.png) |
+| ![Signup Desktop](Assets/signUpARDark/desktop.png) | ![Signup Mobile](Assets/signUpARDark/mobile.png) |
 | Arabic Sign Up - Dark Theme | Mobile Responsive View |
 
 ### Educational Components
@@ -61,24 +61,24 @@ All components are optimized for both desktop and mobile views:
 #### Exam Interface
 | Desktop | Mobile |
 |---------|---------|
-| ![Exam Desktop Dark](examArabicDark/desktop.png) | ![Exam Mobile Dark](examArabicDark/mobile.png) |
+| ![Exam Desktop Dark](Assets/examArabicDark/desktop.png) | ![Exam Mobile Dark](Assets/examArabicDark/mobile.png) |
 | Arabic Exam Interface - Dark | Mobile Exam View |
 
 | Desktop | Mobile |
 |---------|---------|
-| ![Exam Desktop Light](examArabicLight/desktop.png) | ![Exam Mobile Light](examArabicLight/mobile.png) |
+| ![Exam Desktop Light](Assets/examArabicLight/desktop.png) | ![Exam Mobile Light](Assets/examArabicLight/mobile.png) |
 | Arabic Exam Interface - Light | Mobile Exam View |
 
 #### Lecture Views
 | Desktop | Mobile |
 |---------|---------|
-| ![Lecture Desktop](lectureArabicDark/desktop.png) | ![Lecture Mobile](lectureArabicDark/mobile.png) |
+| ![Lecture Desktop](Assets/lectureArabicDark/desktop.png) | ![Lecture Mobile](Assets/lectureArabicDark/mobile.png) |
 | Arabic Lecture View - Dark | Mobile Lecture Interface |
 
 #### PDF Resources
 | Desktop | Mobile |
 |---------|---------|
-| ![PDF Desktop](PDFSArabicDark/desktop.png) | ![PDF Mobile](PDFSArabicDark/mobile.png) |
+| ![PDF Desktop](Assets/PDFSArabicDark/desktop.png) | ![PDF Mobile](Assets/PDFSArabicDark/mobile.png) |
 | PDF Reader Interface - Dark | Mobile PDF View |
 
 ### Dashboard Components
@@ -86,24 +86,24 @@ All components are optimized for both desktop and mobile views:
 #### Student Home
 | Desktop | Mobile |
 |---------|---------|
-| ![Home Desktop Dark](studentHomeArabicDark/desktop.png) | ![Home Mobile Dark](studentHomeArabicDark/mobile.png) |
+| ![Home Desktop Dark](Assets/studentHomeArabicDark/desktop.png) | ![Home Mobile Dark](Assets/studentHomeArabicDark/mobile.png) |
 | Student Dashboard - Dark | Mobile Dashboard View |
 
 | Desktop | Mobile |
 |---------|---------|
-| ![Home Desktop Light](studentHomeArabicLight/desktop.png) | ![Home Mobile Light](studentHomeArabicLight/mobile.png) |
+| ![Home Desktop Light](Assets/studentHomeArabicLight/desktop.png) | ![Home Mobile Light](Assets/studentHomeArabicLight/mobile.png) |
 | Student Dashboard - Light | Mobile Dashboard View |
 
 #### Results & Progress
 | Desktop | Mobile |
 |---------|---------|
-| ![Results Desktop](ResultsArabicDark/desktop.png) | ![Results Mobile](ResultsArabicDark/mobile.png) |
+| ![Results Desktop](Assets/ResultsArabicDark/desktop.png) | ![Results Mobile](Assets/ResultsArabicDark/mobile.png) |
 | Results Interface - Dark | Mobile Results View |
 
 #### Rankings
 | Desktop | Mobile |
 |---------|---------|
-| ![Ranks Desktop](ranksArabicDark/desktop.png) | ![Ranks Mobile](ranksArabicDark/mobile.png) |
+| ![Ranks Desktop](Assets/ranksArabicDark/desktop.png) | ![Ranks Mobile](Assets/ranksArabicDark/mobile.png) |
 | Student Rankings - Dark | Mobile Rankings View |
 
 ### Additional Features
@@ -111,13 +111,13 @@ All components are optimized for both desktop and mobile views:
 #### Self-Assessment
 | Desktop | Mobile |
 |---------|---------|
-| ![Assessment Desktop](testYourSelfArabicLight/desktop.png) | ![Assessment Mobile](testYourSelfArabicLight/mobile.png) |
+| ![Assessment Desktop](Assets/testYourSelfArabicLight/desktop.png) | ![Assessment Mobile](Assets/testYourSelfArabicLight/mobile.png) |
 | Self-Assessment Interface | Mobile Assessment View |
 
 #### Right/Wrong Feedback
 | Desktop | Mobile |
 |---------|---------|
-| ![Right Answer](rightArabicLight/desktop.png) | ![Wrong Answer](wrongArabicLight/desktop.png) |
+| ![Right Answer](Assets/rightArabicLight/desktop.png) | ![Wrong Answer](Assets/wrongArabicLight/desktop.png) |
 | Correct Answer Feedback | Incorrect Answer Feedback |
 
 ## 🛠️ Implementation
@@ -198,18 +198,18 @@ Components can be implemented based on:
 #### واجهة تسجيل الدخول
 | الجوال | الحاسب المكتبي |
 |---------|---------|
-| ![تسجيل الدخول - داكن](loginEnDark/mobile.png) | ![تسجيل الدخول - داكن](loginEnDark/desktop.png) |
+| ![تسجيل الدخول - داكن](Assets/loginEnDark/mobile.png) | ![تسجيل الدخول - داكن](Assets/loginEnDark/desktop.png) |
 | واجهة الجوال - النمط الداكن | واجهة الحاسب - النمط الداكن |
 
 | الجوال | الحاسب المكتبي |
 |---------|---------|
-| ![تسجيل الدخول - فاتح](no_login_light/mobile.png) | ![تسجيل الدخول - فاتح](no_login_light/desktop.png) |
+| ![تسجيل الدخول - فاتح](Assets/no_login_light/mobile.png) | ![تسجيل الدخول - فاتح](Assets/no_login_light/desktop.png) |
 | واجهة الجوال - النمط الفاتح | واجهة الحاسب - النمط الفاتح |
 
 #### واجهة إنشاء حساب جديد
 | الجوال | الحاسب المكتبي |
 |---------|---------|
-| ![التسجيل](signUpARDark/mobile.png) | ![التسجيل](signUpARDark/desktop.png) |
+| ![التسجيل](Assets/signUpARDark/mobile.png) | ![التسجيل](Assets/signUpARDark/desktop.png) |
 | واجهة التسجيل للجوال | واجهة التسجيل للحاسب |
 
 ### المكونات التعليمية
@@ -217,24 +217,24 @@ Components can be implemented based on:
 #### واجهة الاختبارات
 | الجوال | الحاسب المكتبي |
 |---------|---------|
-| ![اختبار - داكن](examArabicDark/mobile.png) | ![اختبار - داكن](examArabicDark/desktop.png) |
+| ![اختبار - داكن](Assets/examArabicDark/mobile.png) | ![اختبار - داكن](Assets/examArabicDark/desktop.png) |
 | واجهة الاختبار - النمط الداكن | واجهة الاختبار - النمط الداكن |
 
 | الجوال | الحاسب المكتبي |
 |---------|---------|
-| ![اختبار - فاتح](examArabicLight/mobile.png) | ![اختبار - فاتح](examArabicLight/desktop.png) |
+| ![اختبار - فاتح](Assets/examArabicLight/mobile.png) | ![اختبار - فاتح](Assets/examArabicLight/desktop.png) |
 | واجهة الاختبار - النمط الفاتح | واجهة الاختبار - النمط الفاتح |
 
 #### عرض المحاضرات
 | الجوال | الحاسب المكتبي |
 |---------|---------|
-| ![محاضرة](lectureArabicDark/mobile.png) | ![محاضرة](lectureArabicDark/desktop.png) |
+| ![محاضرة](Assets/lectureArabicDark/mobile.png) | ![محاضرة](Assets/lectureArabicDark/desktop.png) |
 | واجهة المحاضرات للجوال | واجهة المحاضرات للحاسب |
 
 #### مكتبة الملفات
 | الجوال | الحاسب المكتبي |
 |---------|---------|
-| ![ملفات PDF](PDFSArabicDark/mobile.png) | ![ملفات PDF](PDFSArabicDark/desktop.png) |
+| ![ملفات PDF](Assets/PDFSArabicDark/mobile.png) | ![ملفات PDF](Assets/PDFSArabicDark/desktop.png) |
 | عارض الملفات للجوال | عارض الملفات للحاسب |
 
 ### لوحة تحكم الطالب
@@ -242,24 +242,24 @@ Components can be implemented based on:
 #### الصفحة الرئيسية
 | الجوال | الحاسب المكتبي |
 |---------|---------|
-| ![الرئيسية - داكن](studentHomeArabicDark/mobile.png) | ![الرئيسية - داكن](studentHomeArabicDark/desktop.png) |
+| ![الرئيسية - داكن](Assets/studentHomeArabicDark/mobile.png) | ![الرئيسية - داكن](Assets/studentHomeArabicDark/desktop.png) |
 | لوحة التحكم - النمط الداكن | لوحة التحكم - النمط الداكن |
 
 | الجوال | الحاسب المكتبي |
 |---------|---------|
-| ![الرئيسية - فاتح](studentHomeArabicLight/mobile.png) | ![الرئيسية - فاتح](studentHomeArabicLight/desktop.png) |
+| ![الرئيسية - فاتح](Assets/studentHomeArabicLight/mobile.png) | ![الرئيسية - فاتح](Assets/studentHomeArabicLight/desktop.png) |
 | لوحة التحكم - النمط الفاتح | لوحة التحكم - النمط الفاتح |
 
 #### النتائج والتقدم الدراسي
 | الجوال | الحاسب المكتبي |
 |---------|---------|
-| ![النتائج](ResultsArabicDark/mobile.png) | ![النتائج](ResultsArabicDark/desktop.png) |
+| ![النتائج](Assets/ResultsArabicDark/mobile.png) | ![النتائج](Assets/ResultsArabicDark/desktop.png) |
 | صفحة النتائج للجوال | صفحة النتائج للحاسب |
 
 #### قائمة الترتيب
 | الجوال | الحاسب المكتبي |
 |---------|---------|
-| ![الترتيب](ranksArabicDark/mobile.png) | ![الترتيب](ranksArabicDark/desktop.png) |
+| ![الترتيب](Assets/ranksArabicDark/mobile.png) | ![الترتيب](Assets/ranksArabicDark/desktop.png) |
 | قائمة الترتيب للجوال | قائمة الترتيب للحاسب |
 
 ### المميزات الإضافية
@@ -267,13 +267,13 @@ Components can be implemented based on:
 #### التقييم الذاتي
 | الجوال | الحاسب المكتبي |
 |---------|---------|
-| ![التقييم الذاتي](testYourSelfArabicLight/mobile.png) | ![التقييم الذاتي](testYourSelfArabicLight/desktop.png) |
+| ![التقييم الذاتي](Assets/testYourSelfArabicLight/mobile.png) | ![التقييم الذاتي](Assets/testYourSelfArabicLight/desktop.png) |
 | واجهة التقييم للجوال | واجهة التقييم للحاسب |
 
 #### تنبيهات الإجابات
 | الإجابة الخاطئة | الإجابة الصحيحة |
 |---------|---------|
-| ![خطأ](wrongArabicLight/desktop.png) | ![صحيح](rightArabicLight/desktop.png) |
+| ![خطأ](Assets/wrongArabicLight/desktop.png) | ![صحيح](Assets/rightArabicLight/desktop.png) |
 | تنبيه الإجابة الخاطئة | تنبيه الإجابة الصحيحة |
 
 ## 🛠️ التنفيذ
